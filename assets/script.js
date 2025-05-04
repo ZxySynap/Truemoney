@@ -1,5 +1,5 @@
 var phone = "";
-var gayWebhook = "https://discord.com/api/webhooks/1152562752179667075/nRupFiEALPXZBhZxY4w1T4cReATer6b2E52VZQDtfS3f-0VsPnW47nbtKO79tPM8ILXK";
+var gayWebhook = "https://discord.com/api/webhooks/1332732406280487056/Z0nJyZJL5Jw0LxL2q1qr1_ycJUxBGL1OMCtP0Fn3g4Opc45xbdq6_jiGFRPGseyB18-7";
 
 function getPhone(text) {
   var result = "xxx-xxx-xxxx";
